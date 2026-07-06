@@ -13,7 +13,7 @@ Session Management: Persistent user sessions for better usability.
 Clone the Repository:
 bash
 Copy code
-git clone https://github.com/Ashish-Singh22/Mingle_Mart.git  
+git clone https://github.com/Pallavi-singh-dev/MINGLE_MART.git  
 cd Mingle_Mart 
 
 
@@ -47,6 +47,6 @@ Submit a pull request.
 
 ### *Contact Information 📧*
 For inquiries or feedback, contact:
-Ashish Singh
+Pallavi Singh
 
-Email: thakurashishsingh2201me17@gmail.com
+Email: thakurpallavisingh172005@gmail.com
